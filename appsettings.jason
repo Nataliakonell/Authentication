@@ -1,0 +1,4 @@
+  "UcdbAuth": {
+    "Authority": "https://accounts.ucdb.br",
+    "ClientId": "reserva-de-veiculos",
+    "RequireHttpsMetadata": true
